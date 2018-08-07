@@ -1,0 +1,26 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Match making app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "server",
+    "api",
+    "get",
+    "push"
+  ],
+  "author": "Kenenth Bitzer",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "chosen-js": "^1.8.7",
+    "express": "^4.16.3",
+    "nodemon": "^1.18.3",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {}
+}
